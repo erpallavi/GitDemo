@@ -14,5 +14,6 @@ public class AppiumTest {
 	{
 		System.out.println("IOSApps");	
 		System.out.println("Iphone");
+		System.out.println("Ipad");
 	}
 }
